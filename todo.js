@@ -57,6 +57,7 @@ function updateTable() {
         tableRow.appendChild(actionCell);
 
         todoTableBody.appendChild(tableRow);
+        
     });
 }
 
