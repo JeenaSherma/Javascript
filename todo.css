@@ -1,0 +1,19 @@
+
+
+.center-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.btn{
+    
+    cursor: pointer;
+}
+#todoTable {
+    width: 50%;
+    margin: auto;
+    
+}
+
